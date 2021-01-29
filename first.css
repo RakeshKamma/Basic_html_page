@@ -1,0 +1,15 @@
+body
+{
+	background-color:white;
+
+}
+table
+{
+	border:1px solid black;
+	border-collapse: collapse;
+}
+.a
+{
+	background-color:orange;
+    color: white;
+}
